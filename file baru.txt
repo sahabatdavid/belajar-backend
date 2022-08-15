@@ -1,1 +1,16 @@
 File Baru
+
+Code Default (awal) -> sama
+
+main/master/production
+
+fitur ABCD
+
+dev_sidik
+    fitur A
+dev_ali
+    fitur B
+dev_fahmi
+    fitur C
+dev_zulfani
+    fitur D
